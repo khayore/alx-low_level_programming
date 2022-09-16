@@ -6,7 +6,7 @@
  *
  *
  *Return: returns 0
-*/
+ */
 
 int main(void)
 {
@@ -39,8 +39,6 @@ int main(void)
 		}
 	}
 	printf("\n")
+
 	return (0);
 }
-
-
-
