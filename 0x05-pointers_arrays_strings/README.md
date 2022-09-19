@@ -1,1 +1,1 @@
-A 2. This report, by its very length, defends itself against the risk of being read
+A function that prints a string, followed by a new line, to stdout
