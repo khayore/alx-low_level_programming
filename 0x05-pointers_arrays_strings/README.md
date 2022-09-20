@@ -1,1 +1,1 @@
-A function that prints half of a string, followed by a new line
+A program that generates random valid passwords for the program 101-crackme
